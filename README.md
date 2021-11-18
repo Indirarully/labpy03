@@ -1,7 +1,6 @@
-
 # Labpy03
 # Indira Rully 312110354
-## Alur Algoritma latihan1.py
+## Latihan1.py
 SOAL
 
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5
@@ -42,7 +41,7 @@ Ini hasilnya
 
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
-## Alur Algoritma Latihan2.py
+## Latihan2.py
 SOAL
 
 • Buat program untuk menampilkan bilangan terbesar dari n buah data yang di'inputkan
@@ -79,7 +78,7 @@ print('Bilangan terbesarnya adalah',max)
 
 "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
-## Alur Algoritma program1.py
+## Program1.py
 SOAL
 
 •Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya
