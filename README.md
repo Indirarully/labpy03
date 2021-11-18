@@ -1,6 +1,4 @@
 # labpy03
-# Indira Rully 312110354
-
 # Latihan 1
 ## A. Langkah untuk menampilkan N bilangan acak yang lebih kecil dari 0,5
 1.Masukan Jumlah N pengulangan
