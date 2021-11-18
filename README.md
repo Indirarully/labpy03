@@ -4,11 +4,8 @@
 SOAL
 
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5
-
 • Nilai n pada saat runtime
-
 • Anda bisa menggunakan while atau for untuk menyelesaikannya
-
 • Gunakan fungsi random () yang dapat di'import terlebih dahulu
 
 Berikut flowchartnya
@@ -17,7 +14,8 @@ Berikut flowchartnya
 Dan ini programnya
 ![img](Screenshot/ss2.png)
 
-Berikut penjelasan dari program diatas
+### Berikut penjelasan dari program diatas
+
 print ('Masukkan nilai N: 5')
 import random
 jumlah = 5
@@ -45,7 +43,6 @@ Ini hasilnya
 SOAL
 
 • Buat program untuk menampilkan bilangan terbesar dari n buah data yang di'inputkan
-
 • Dan masukkan angka nol untuk berhenti
 
 Berikut flowchartnya
@@ -54,7 +51,8 @@ Berikut flowchartnya
 Dan ini programnya
 ![img](Screenshot/ss5.png)
 
-Berikut penjelas Latihan2.py
+### Berikut penjelas Latihan2.py
+
 max=0
 while True:
 a=int(input('Masukkan bilangan='))
@@ -81,20 +79,12 @@ print('Bilangan terbesarnya adalah',max)
 ## Program1.py
 SOAL
 
-•Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya
-
-•Dengan modal awal 100 juta
-
+•Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya Dengan modal awal 100 juta
 •Pada bulan pertama dan kedua belum mendapatkan laba
-
 •Pada bulan ketiga baru mulai mendapatkan laba sebesar 1%
-
 •Pada bulan kelima pendapatan meningkat 5%
-
 •Selanjutnya pada bulan ke-8 mengalami penurunan keuntungan sebesar 2%
-
 •Sehingga laba menjadi 3%
-
 •Hitung total keuntungan selama 8 bulan berjalan usahanya
 
 Berikut flowchartnya
@@ -103,19 +93,13 @@ Berikut flowchartnya
 Dan ini programnya
 ![img](Screenshot/ss7.png)
 
-Berikut penjelasan dari Program1.py
+### Berikut penjelasan dari Program1.py
+
 •masukkan nilai a
-
 •gunakan for untuk perulangan dari 1 sampai 8.Perulangan for disebut counted loop (perulangan yang terhitung)
-
 •lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2. cetak (x) dan (b)
-
 •lalu gunakan if kedua untuk menentukan laba bulan ke 3 dan ke 4.masukan variabel (b) kalikan nilai (a) dengan data bulan 3 dan 4. cetak (x) dan (c)
-
 •lalu gunakan if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variabel (b) kalikan nilai (a) dengan data bulan 5 sampai 7. cetak (x) dan (d)
-
 •lalu gunakan if keempat untuk menentukan laba bulan ke 8.masukan variabel (b) kalikan nilai (a) dengan data bulan 8. cetak (x) dan (e)
-
-•total keseluruhan.
-
+•total keseluruhan
 •cetak total
