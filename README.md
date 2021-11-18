@@ -1,12 +1,10 @@
 # labpy03
 # Latihan 1
 ## A. Langkah untuk menampilkan N bilangan acak yang lebih kecil dari 0,5
+
 1.Masukan Jumlah N pengulangan
-
 2.Proses pengulangan sesuai jumlah pengulangan yang dinputkan
-
 3.Tampilkan pengulangan dengan nilai di bawah 0.5
-
 4.Selesai
 
 ## B. Flowchart program
@@ -42,16 +40,9 @@
 
 # Latihan 2
 
-## Urutan Pembuatan Program
+## A. Buat program untuk menampilkan bilangan terbesar dari n buah data yang di'inputkan
+![img](Screenshot/ss4.png)
+![img](Screenshot/ss5.png)
+![img](Screenshot/ss6.png)
+![img](Screenshot/ss7.png)
 
-Ketikan Program max= 0
-Ketikan Program while true:
-Ketikan Program a=int(input("Masukan Bilangan :"))
-Ketikan Program if max < a
-Ketikan Program max=a
-Ketikan Program if a==0:
-Ketikan Program break
-Ketikan Program print("Bilangan Tebesar Adalah :", max)
-Penjelasan Alur Program
-
-berikut merupakan programnya
