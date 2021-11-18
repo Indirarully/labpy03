@@ -14,5 +14,5 @@ for x in range (1,9):
    if(x==8):
         e=a*0.2
         print ('Laba bulan ke-',x,':', e)
-total=b+b+c+c+d+d+d+e
+total = b+b+c+c+d+d+d+e
 print("\nTotal: ', total)
