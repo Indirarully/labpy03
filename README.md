@@ -43,3 +43,22 @@
 ![img](Screenshot/ss3.png)
 
 # Latihan 2
+
+Urutan Pembuatan Program
+
+Ketikan Program max= 0
+Ketikan Program while true:
+Ketikan Program a=int(input("Masukan Bilangan :"))
+Ketikan Program if max < a
+Ketikan Program max=a
+Ketikan Program if a==0:
+Ketikan Program break
+Ketikan Program print("Bilangan Tebesar Adalah :", max)
+Penjelasan Alur Program
+
+max= 0 kode max disini untuk menentukan nilai max nya adalah 0
+while true: Untuk perulangan hingga waktu yang tidak di tentukan atau selamanya
+a=int(input("Masukan Bilangan :")) a untuk menginput tipe data interger ( bilangan bulat )
+if max < a max=a jika max kurang dari a maka max = a
+if a==0: break jika a= 0 maka akan berhenti dengan syarat break yang terpenuhi
+print("Bilangan Tebesar Adalah :", max) Menampilkan *Bilangan Tebesar Adalah : Nilai maximumnya berikut merupakan programnya
