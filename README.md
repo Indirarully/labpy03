@@ -20,13 +20,21 @@ Dan ini programnya
 ### Berikut penjelasan dari program diatas
 
 print ('Masukkan nilai N: 5')
+
 import random
+
 jumlah = 5
+
 a = 0
+
 for x in range(jumlah):
+
 i = random.uniform(.0,.5)
+
 a+=1
+
 print('data ke:',a,'==>', i)
+
 print ('selesai')
 
 Ini hasilnya
@@ -58,12 +66,19 @@ Dan ini programnya
 ### Berikut penjelas Latihan2.py
 
 max=0
+
 while True:
+
 a=int(input('Masukkan bilangan='))
+
 if max < a:
+
 max = a
+
 if a==0:
+
 break
+
 print('Bilangan terbesarnya adalah',max)
 
 "max" : fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
