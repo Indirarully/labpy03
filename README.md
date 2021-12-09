@@ -1,7 +1,7 @@
 # Labpy03
 # Indira Rully 312110354
 ## Latihan1.py
-SOAL
+**SOAL**
 
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5
 
@@ -18,25 +18,20 @@ Dan ini programnya
 ![img](Screenshot/ss2.png)
 
 ### Berikut penjelasan dari program diatas
-
+```ruby
 print ('Masukkan nilai N: 5')
 
 import random
+       jumlah = 5
+       a = 0
 
-jumlah = 5
-
-a = 0
-
-for x in range(jumlah):
-
-i = random.uniform(.0,.5)
-
-a+=1
+    for x in range(jumlah):
+       i = random.uniform(.0,.5)
+       a+=1
 
 print('data ke:',a,'==>', i)
-
 print ('selesai')
-
+```
 Ini hasilnya
 ![img](Screenshot/ss3.png)
 
@@ -51,7 +46,7 @@ Ini hasilnya
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 ## Latihan2.py
-SOAL
+**SOAL**
 
 • Buat program untuk menampilkan bilangan terbesar dari n buah data yang di'inputkan
 
@@ -64,23 +59,20 @@ Dan ini programnya
 ![img](Screenshot/ss5.png)
 
 ### Berikut penjelas Latihan2.py
-
+```ruby
 max=0
 
 while True:
-
-a=int(input('Masukkan bilangan='))
-
-if max < a:
-
-max = a
-
-if a==0:
-
+      a=int(input('Masukkan bilangan='))
+   if max < a:
+      max = a
+   if a==0:
 break
 
 print('Bilangan terbesarnya adalah',max)
+```
 
+Keterangan:
 "max" : fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.
 
 "while" : disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
@@ -96,7 +88,7 @@ print('Bilangan terbesarnya adalah',max)
 "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 ## Program1.py
-SOAL
+**SOAL**
 
 •Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya Dengan modal awal 100 juta
 
